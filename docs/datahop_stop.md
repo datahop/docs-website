@@ -5,7 +5,7 @@ Stop datahop daemon
 ### Synopsis
 
 
-"The commend is used to stop datahop daemon"
+This command is used to stop datahop daemon
 		
 
 ```

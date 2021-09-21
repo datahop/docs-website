@@ -5,11 +5,12 @@ Index datahop node content
 ### Synopsis
 
 
-"The commend is used to get the index of tag-content"
+This command is used to get the index of tag-content
 
 Example:
 
-	// To pretty print the index in json format
+	To pretty print the index in json format
+
 	$ datahop index -j -p
 
 	{

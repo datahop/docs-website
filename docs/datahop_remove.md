@@ -5,8 +5,8 @@ Remove content from datahop network
 ### Synopsis
 
 
-"The commend is used to remove file/content from the
-datahop network by a simple tag"
+This command is used to remove file/content from the
+datahop network by a simple tag
 		
 
 ```

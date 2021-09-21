@@ -10,7 +10,8 @@ datahop network addressable by a given tag.
 
 Example:
 
-To tag the content with filename after adding
+	// To tag the content with filename after adding
+
 	$ datahop add '/home/sabyasachi/Downloads/go1.17.linux-amd64.tar.gz' -p -j
 	
 	// The file will be added the in network with the filename in the format below
@@ -27,7 +28,8 @@ To tag the content with filename after adding
 
 	$ datahop add '/home/sabyasachi/Downloads/go1.17.linux-amd64.tar.gz' -p -j -t golang_latest
 	
-	// The file will be added the in network with provided tag in the format below
+	The file will be added the in network with provided tag in the format below
+
 	"/golang_latest": {
 		"Size": 134787877,
 		"Type": "application/gzip",

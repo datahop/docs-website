@@ -5,7 +5,7 @@ Datahop cli version
 ### Synopsis
 
 
-"The commend is used to get cli version"
+This command is used to get cli version
 		
 
 ```

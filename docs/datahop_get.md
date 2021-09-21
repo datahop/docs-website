@@ -10,11 +10,13 @@ datahop network by a simple tag
 
 Example:
 
-To save at default "Download" location
+	// To save at default "Download" location
+
 	$ datahop get /test.txt
 
-To save at a given location
-	$ datahop get /test.txt -location /home/sabyasachi/Documents
+	// To save at a given location
+
+	$ datahop get /test.txt --location /home/sabyasachi/Documents
 	$ datahop get /test.txt -l /home/sabyasachi/Documents
 		
 

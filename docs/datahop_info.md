@@ -5,11 +5,12 @@ Get datahop node information
 ### Synopsis
 
 
-"The commend is used to get the local node information"
+This command is used to get the local node information
 
 Example:
 
-	// To pretty print the node info in json format
+	To pretty print the node info in json format
+
 	$ datahop info -j -p
 
 	{

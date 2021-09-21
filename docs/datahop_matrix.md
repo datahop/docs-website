@@ -5,12 +5,13 @@ Get node connectivity and content matrix
 ### Synopsis
 
 
-"The commend is used to get connectivity and 
-content matrix"
+This command is used to get connectivity and 
+content matrix
 
 Example:
 
-	// To pretty print the node matrix in json format
+	To pretty print the node matrix in json format
+
 	$ datahop matrix -j -p
 
 	{
