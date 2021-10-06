@@ -14,3 +14,6 @@
     - [matrix](/datahop_matrix.md)
     - [version](/datahop_version.md)
     - [doc](/datahop_doc.md)
+- [Mobile (android)](TODO.md)
+- [How to...](how_to.md)
+    - [CLI as a service](/how_to?id=how-to-set-up-cli-as-service-linux)
