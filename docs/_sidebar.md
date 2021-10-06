@@ -17,3 +17,4 @@
 - [Mobile (android)](TODO.md)
 - [How to...](how_to.md)
     - [CLI as a service](/how_to?id=how-to-set-up-cli-as-service-linux)
+    - [Run Mobile Client](/how_to?id=how-to-run-mobile-client)
