@@ -231,6 +231,7 @@ To be able to get imformed about new peer connection and disconnection our Class
     }
 ```
 
+// TODO:
 ## Get Tags
 ## State
 ## Matrix
