@@ -76,6 +76,20 @@ We will pass a "shouldBootstrap" boolean with `start`. This will determine if th
 
 ```
 
+## Stop client and discovery
+
+```
+   if(Datahop.isNodeOnline()) {
+        try {
+            Datahop.stopDiscovery();
+            Datahop.stop();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+```
+
 ## Client id and online status
 
 ```
@@ -216,3 +230,8 @@ To be able to get imformed about new peer connection and disconnection our Class
         e.printStackTrace();
     }
 ```
+
+## Get Tags
+## State
+## Matrix
+## DownloadsInProgress
