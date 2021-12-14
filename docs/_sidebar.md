@@ -1,4 +1,4 @@
-- [IPFS-lite](/)
+- [Datahop](/)
     - [Examples](/?id=examples)
     - [Objectives](/?id=objectives)
     - [Documentation](/?id=documentation)

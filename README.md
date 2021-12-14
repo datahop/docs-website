@@ -1,4 +1,4 @@
-# IPFS-Lite
+# Datahop
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/datahop/ipfs-lite.svg)](https://pkg.go.dev/github.com/datahop/ipfs-lite)
 [![Go Report Card](https://goreportcard.com/badge/github.com/datahop/ipfs-lite)](https://goreportcard.com/report/github.com/datahop/ipfs-lite)
