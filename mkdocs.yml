@@ -1,6 +1,22 @@
 site_name: DataHop Docs
 site_url: https://datahop.network
 nav:
-    - Home: README.md
+  - Home: index.md
+  - CLI:
+      - datahop: datahop.md
+      - daemon: datahop_daemon.md
+      - add: datahop_add.md
+      - doc: datahop_doc.md
+      - get: datahop_get.md
+      - index: datahop_index.md
+      - info: datahop_info.md
+      - matrix: datahop_matrix.md
+      - remove: datahop_remove.md
+      - stop: datahop_stop.md
+      - version: datahop_version.md
+  - Mobile: mobile.md
+  - How To: how_to.md
 theme:
     name: material
+extra_css:
+  - stylesheets/extra.css
