@@ -1,0 +1,6 @@
+site_name: DataHop Docs
+site_url: https://datahop.network
+nav:
+    - Home: README.md
+theme:
+    name: material
