@@ -1,3 +1,0 @@
-## Mobile Client
-
-Coming Soon...
