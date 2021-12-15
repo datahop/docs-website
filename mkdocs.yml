@@ -2,6 +2,7 @@ site_name: DataHop Docs
 site_url: https://datahop.network
 nav:
   - Home: index.md
+  - DataHop Service: ipfs.md
   - CLI:
       - datahop: datahop.md
       - daemon: datahop_daemon.md
@@ -16,6 +17,7 @@ nav:
       - version: datahop_version.md
   - Mobile: mobile.md
   - How To: how_to.md
+  - Demo: demo.md
 theme:
     name: material
     logo: user/themes/data-hop/images/favicons/yellow/android-chrome-512x512.png
