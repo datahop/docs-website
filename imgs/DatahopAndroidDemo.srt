@@ -1,0 +1,39 @@
+1
+00:00:02,498 --> 00:00:04,000
+- Welcome to this demo presented by Datahop
+
+2
+00:00:04,100 --> 00:00:07,000
+- We will address the device on the left as device A and the other one as Device B
+
+3
+00:00:07,200 --> 00:00:10,383
+We are adding dummy content in A
+
+4
+00:00:17,200 --> 00:00:20,383
+After content addition A starts advertising, it has some content
+
+5
+00:00:22,200 --> 00:00:25,383
+B discovers A and starts wifi hotspot 
+
+6
+00:00:25,400 --> 00:00:28,383
+A connects to the hotspot
+
+9
+00:00:28,400 --> 00:00:34,383
+Both of them gets connected and B starts getting data from A
+
+8
+00:00:44,400 --> 00:00:47,383
+At this point data transfer is completed
+
+9
+00:00:47,400 --> 00:00:49,383
+They get disconnected as they now have common data
+
+10
+00:00:49,400 --> 00:00:50,383
+Thank you
