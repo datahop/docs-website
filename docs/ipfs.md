@@ -5,7 +5,7 @@
 [![Actions Status](https://github.com/datahop/ipfs-lite/workflows/Go/badge.svg)](https://github.com/datahop/ipfs-lite/actions)
 [![codecov](https://codecov.io/gh/datahop/ipfs-lite/branch/alpha.0/graph/badge.svg)](https://codecov.io/gh/datahop/ipfs-lite)
 
-The outcome of this DataHop is local content sharing in mobile devices without requiring any network infrastructure. IPFS platform provides required networking features that will substitute typical client-server architecture for end-user centric networking. These features are:
+The outcome of DataHop is local content sharing in mobile devices without requiring any network infrastructure. IPFS platform provides required networking features that will substitute typical client-server architecture for end-user centric networking. These features are:
 
 * Content addressing: IPFS provides a content identifier, or CID used to point to material in IPFS. This can be used to identify and fetch content without requiring defining a specific content naming for a specific application.
 * Content storage: IPFS provides a local storage cache that stores any file provided or fetched by the user. This is used to enable content sharing from any user that previously got the same content without requiring a centralised model

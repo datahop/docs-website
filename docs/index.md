@@ -21,11 +21,15 @@ DataHop uses the WiFi-Direct specification to exchange specific application cont
 
 ## DataHop Features
 
-### Minimum batter required
+### Minimum battery required
 
 <p align="center">
 <img class="center" src="./imgs/battery.png" />
 </p>
+
+Transfering content using DataHop solution is more energy-efficient than using 4G connectivity.
+Downloading using 4G consumes ~50% more than using DataHop and only ~15% extra battery consumption for the whole day (retrieving a 5 min video clip every 5 min during 12 hours).
+
 
 ### No Internet required
 
@@ -33,17 +37,26 @@ DataHop uses the WiFi-Direct specification to exchange specific application cont
 <img class="center" src="./imgs/data.png" />
 </p>
 
+DataHop allows transfering content between devices without requiring any kind of Internet connectivity, neither any additional network device,
+without consuming your mobile data plan.
+
 ### Privacy and security
 
 <p align="center">
 <img class="center" src="./imgs/secure.png" />
 </p>
 
+DataHop communications are fully private and all transfers are local and encrypted.
+No content or data is stored in remote servers.
+
 ### No location tracking
 
 <p align="center">
 <img class="center" src="./imgs/global.png" />
 </p>
+
+When using DataHop there is no location tracking, no connection is established between smartphone devices and any tracking service.
+Only device-to-device local communications.
 
 ## Supporters
 
@@ -52,4 +65,8 @@ received funding from the European Union’s Horizon 2020 research and innovatio
 871528
 
 <p align="center"><img  alt="ngi logo" src="https://raw.githubusercontent.com/datahop/ipfs-lite/master/Logo_Pointer.png"
-width=40%> <img  alt="eu logo" src="https://raw.githubusercontent.com/datahop/ipfs-lite/master/eu.png" width=25%></p>
+width=45%></br>
+<img  alt="tetra" src="imgs/tetra.png" width=25%>
+</p>
+<p align="center">
+<img class="center"  alt="ov" src="imgs/ov.png" width=35%> </p>
