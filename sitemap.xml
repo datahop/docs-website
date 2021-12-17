@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://datahop.network/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_add/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_daemon/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_doc/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_get/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_index/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_info/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_matrix/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_remove/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_stop/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/datahop_version/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/demo/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/how_to/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/ipfs/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datahop.network/mobile/</loc>
-         <lastmod>2021-12-15</lastmod>
+         <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
