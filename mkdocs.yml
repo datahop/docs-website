@@ -1,5 +1,10 @@
 site_name: DataHop Docs
 site_url: https://datahop.network
+extra:
+  homepage: https://datahop.network
+
+repo_url: https://github.com/datahop
+
 nav:
   - Home: index.md
   - DataHop Service: ipfs.md
