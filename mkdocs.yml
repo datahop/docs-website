@@ -27,5 +27,7 @@ theme:
     name: material
     logo: user/themes/data-hop/images/favicons/yellow/android-chrome-512x512.png
     favicon: user/themes/data-hop/images/favicons/yellow/favicon-32x32.png
+    icon:
+      repo: fontawesome/brands/github
 extra_css:
   - stylesheets/extra.css
