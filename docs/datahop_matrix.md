@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop matrix
 
 Get node connectivity and content matrix
@@ -5,7 +12,7 @@ Get node connectivity and content matrix
 ### Synopsis
 
 
-This command is used to get connectivity and 
+This command is used to get connectivity and
 content matrix
 
 Example:
@@ -58,7 +65,7 @@ Example:
 		},
 		"TotalUptime": 40860
 	}
-		
+
 
 ```
 datahop matrix [flags]

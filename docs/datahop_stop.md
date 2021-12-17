@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop stop
 
 Stop datahop daemon
@@ -6,7 +13,7 @@ Stop datahop daemon
 
 
 This command is used to stop datahop daemon
-		
+
 
 ```
 datahop stop [flags]

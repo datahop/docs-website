@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop remove
 
 Remove content from datahop network
@@ -7,7 +14,7 @@ Remove content from datahop network
 
 This command is used to remove file/content from the
 datahop network by a simple tag
-		
+
 
 ```
 datahop remove [flags]

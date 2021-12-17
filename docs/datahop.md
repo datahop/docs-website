@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop
 
 This is datahop cli client
@@ -7,7 +14,7 @@ This is datahop cli client
 
 The Datahop CLI client gives access to datahop
 network through a CLI Interface.
-		
+
 
 ### Options
 

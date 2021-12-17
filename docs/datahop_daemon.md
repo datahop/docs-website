@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop daemon
 
 Start datahop daemon
@@ -6,7 +13,7 @@ Start datahop daemon
 
 
 This command is used to start the Datahop Daemon.
-		
+
 
 ```
 datahop daemon [flags]

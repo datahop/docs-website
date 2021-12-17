@@ -1,13 +1,20 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop doc
 
 Use to generate documentation
 
 ### Synopsis
 
- 
+
 This command is used to generate documentation
 for the CLI.
-         
+
 
 ```
 datahop doc [flags]

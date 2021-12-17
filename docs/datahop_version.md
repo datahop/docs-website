@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop version
 
 Datahop cli version
@@ -6,7 +13,7 @@ Datahop cli version
 
 
 This command is used to get cli version
-		
+
 
 ```
 datahop version [flags]

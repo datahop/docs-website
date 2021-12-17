@@ -1,4 +1,10 @@
-<!--<img class="center" src="./imgs/Logo_Main.svg" width="30%"/>-->
+<img class="center" src="./imgs/Logo_Main.svg" width="30%"/>
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 # Datahop
 
 ## What is DataHop ?

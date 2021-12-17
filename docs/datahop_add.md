@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop add
 
 Add content into datahop network
@@ -5,7 +12,7 @@ Add content into datahop network
 ### Synopsis
 
 
-This command is used to add a file/content in the 
+This command is used to add a file/content in the
 datahop network addressable by a given tag.
 
 Example:
@@ -13,7 +20,7 @@ Example:
 	// To tag the content with filename after adding
 
 	$ datahop add '/home/sabyasachi/Downloads/go1.17.linux-amd64.tar.gz' -p -j
-	
+
 	// The file will be added the in network with the filename in the format below
 	"/go1.17.linux-amd64.tar.gz": {
 		"Size": 134787877,
@@ -27,7 +34,7 @@ Example:
 	}
 
 	$ datahop add '/home/sabyasachi/Downloads/go1.17.linux-amd64.tar.gz' -p -j -t golang_latest
-	
+
 	The file will be added the in network with provided tag in the format below
 
 	"/golang_latest": {
@@ -40,7 +47,7 @@ Example:
 		"Timestamp": 1632207767,
 		"Owner": "QmXpiaCz3M7bRz47ZRUP3uq1WUfquqTNrfzi3j24eNXpe5"
 	},
-		
+
 
 ```
 datahop add [flags]

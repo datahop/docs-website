@@ -1,3 +1,9 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 # DataHop Service
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/datahop/ipfs-lite.svg)](https://pkg.go.dev/github.com/datahop/ipfs-lite)

@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop get
 
 Get content by tag
@@ -18,7 +25,7 @@ Example:
 
 	$ datahop get /test.txt --location /home/sabyasachi/Documents
 	$ datahop get /test.txt -l /home/sabyasachi/Documents
-		
+
 
 ```
 datahop get [flags]

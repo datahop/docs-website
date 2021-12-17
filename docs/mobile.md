@@ -1,3 +1,9 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 # Datahop mobile client
 
 This is a documentation for java based andriod application. The doc for golang of the same library is available [here](https://pkg.go.dev/github.com/datahop/ipfs-lite@v0.0.12/mobile).

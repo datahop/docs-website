@@ -1,3 +1,10 @@
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 ## datahop index
 
 Index datahop node content
@@ -35,7 +42,7 @@ Example:
 			"Owner": "QmXpiaCz3M7bRz47ZRUP3uq1WUfquqTNrfzi3j24eNXpe5"
 		},
 	}
-		
+
 
 ```
 datahop index [flags]
