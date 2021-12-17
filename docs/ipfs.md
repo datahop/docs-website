@@ -12,7 +12,7 @@ The outcome of DataHop is local content sharing in mobile devices without requir
 * Peer-to-peer connectivity: An important part of the IPFS project is the libp2p subproject. Libp2p provides all required network libraries to start connections with other users, discovery features and write/read data from other peers.
 * Infrastructure integration: This feature allows users to discover and fetch content from remote peers when infrastructure is available (Internet connectivity) to later make it available to local users.
 
-To this end DataHop based it smartphone service on IPFS, develovping an embeddable and lightweight IPFS peer that can run on Android devices. This fork started from [ipfs-lite](https://github.com/hsanjuan/ipfs-lite). It offers all the features of main [ipfs-lite](https://github.com/hsanjuan/ipfs-lite). For certain requirements of
+To this end DataHop based it smartphone service on IPFS, developing an embeddable and lightweight IPFS peer that can run on Android devices. This fork started from [ipfs-lite](https://github.com/hsanjuan/ipfs-lite). It offers all the features of main [ipfs-lite](https://github.com/hsanjuan/ipfs-lite). For certain requirements of
 DataHop it adds some more features of full IPFS, such as config, repo, leveldb etc.
 
 ## Examples
@@ -29,16 +29,16 @@ DataHop it adds some more features of full IPFS, such as config, repo, leveldb e
 
 ## Objectives
 
-* [x] create cache repo as IPFS
-* [x] have persistent config information (Id, keys, ports, bootstraps etc)
-* [x] use leveldb as datastore to set up peer
-* [x] generate gomobile binding for android
-* [x] adding content
-* [x] replicating content
-* [x] remove content
-* [x] remove respective replication info for removed content
-* [x] bootstrap mobile client
-* [x] cli for bootstrap peer
+* Create cache repo as IPFS
+* Have persistent config information (Id, keys, ports, bootstraps etc)
+* Use leveldb as datastore to set up peer
+* Generate gomobile binding for android
+* Adding content
+* Content replication
+* Remove content
+* Remove respective replication info for removed content
+* Mobile service using bootstrap peer
+* Cli for bootstrap peer
 
 
 ## Documentation
